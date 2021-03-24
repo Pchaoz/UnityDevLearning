@@ -5,7 +5,7 @@ using UnityEngine;
 public class Dropper : MonoBehaviour
 
 {
-    [SerializeField] private float drop = 3;
+    [SerializeField] private float drop = 5;
     
     MeshRenderer renderer;
     Rigidbody gravity;
